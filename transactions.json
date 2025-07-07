@@ -1,0 +1,16 @@
+[
+  {
+    "book_isbn": "978-3-16-148410-0",
+    "user_id": "user123",
+    "action": "issue",
+    "date": "2025-06-25 00:25:07",
+    "due_date": "2025-07-09 00:25:07"
+  },
+  {
+    "book_isbn": "978-3-16-148410-0",
+    "user_id": "user123",
+    "action": "return",
+    "date": "2025-06-25 00:25:07",
+    "due_date": null
+  }
+]

@@ -1,0 +1,21 @@
+import csv
+import os
+
+class Employee:
+    def __init__(self, empid, name, address, contact_number, spouse_name, number_of_child, salary):
+        self.empid = empid
+        self.name = name
+        self.address = address
+        self.contact_number = contact_number
+        self.spouse_name = spouse_name
+        self.number_of_child = number_of_child
+        self.salary = salary
+
+    def to_dict(self):
+        return {
+            'Employee ID': self.empid,
+            'Name': self.name,
+            'Address': self.address,
+            'Contact Number': self.contact_number,
+            'Spouse Name': self.spouse_name,
+            'Number of Children': s

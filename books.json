@@ -1,0 +1,14 @@
+[
+  {
+    "isbn": "978-3-16-148410-0",
+    "title": "Python Programming",
+    "author": "John Smith",
+    "quantity": 15
+  },
+  {
+    "isbn": "978-1-23-456789-0",
+    "title": "Advanced Python",
+    "author": "Jane Doe",
+    "quantity": 3
+  }
+]
